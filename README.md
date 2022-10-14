@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harish937
 - 👀 I’m interested in devops
-- 🌱 I’m currently learning devops
+- 🌱 I’m currently woking as cloud engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
